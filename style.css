@@ -834,14 +834,14 @@ font-weight: 500;
  #navpart2 h4{
   display: none;}
 
-  #hero1 h1::before{
+  /*#hero1 h1::before{
     content: "01";
     position: absolute;
     font-size: 5vw;
     font-family: "silk-serif";
     left: 12%;
     top: 29%;
-    }
+    }*/
  
  .hero{
  width: 70%;
@@ -1337,7 +1337,7 @@ z-index: 9999;
     margin-bottom: 3.5vw;
   }
   .box{
-    width: 30%;
+    width: 70%;
     margin-bottom: 5vw;
     
   }
