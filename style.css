@@ -204,16 +204,6 @@
  #navpart2 h4{
   font-size: 1vw;
   font-weight: 500;
-
-
-  #hero1 h1::before{
-    content: "01";
-    position: absolute;
-    font-size: 5vw;
-    font-family: "silk-serif";
-    left: -12%;
-    top: 25%;
-    }
  }
  .hero{
  width: 70%;
@@ -238,14 +228,7 @@ z-index: 9999;
   font-weight: 600;  
   
  }
- #hero1 h1::before{
-  content: "01";
-  position: absolute;
-  font-size: 5vw;
-  font-family: "silk-serif";
-  left: -12%;
-  top: -20;
-  }
+ 
  .hero:nth-child(2){
   margin-top: 18vh;
  }
@@ -834,14 +817,7 @@ font-weight: 500;
  #navpart2 h4{
   display: none;}
 
-  /*#hero1 h1::before{
-    content: "01";
-    position: absolute;
-    font-size: 5vw;
-    font-family: "silk-serif";
-    left: 12%;
-    top: 29%;
-    }*/
+  
  
  .hero{
  width: 70%;
